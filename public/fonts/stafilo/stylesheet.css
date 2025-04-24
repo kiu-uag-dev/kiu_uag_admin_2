@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'TKT';
+    src: url('TKT-Medium.eot');
+    src: url('TKT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TKT-Medium.woff2') format('woff2'),
+        url('TKT-Medium.woff') format('woff'),
+        url('TKT-Medium.ttf') format('truetype'),
+        url('TKT-Medium.svg#TKT-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TKT';
+    src: url('TKT-Bold.eot');
+    src: url('TKT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TKT-Bold.woff2') format('woff2'),
+        url('TKT-Bold.woff') format('woff'),
+        url('TKT-Bold.ttf') format('truetype'),
+        url('TKT-Bold.svg#TKT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TKT';
+    src: url('TKT-Regular.eot');
+    src: url('TKT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TKT-Regular.woff2') format('woff2'),
+        url('TKT-Regular.woff') format('woff'),
+        url('TKT-Regular.ttf') format('truetype'),
+        url('TKT-Regular.svg#TKT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "aero-bold";
+  src: url("./fonts/stafilo/Bold.eot");
+  src: url("./fonts/stafilo/Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/stafilo/Bold.woff2") format("woff2"),
+    url("./fonts/stafilo/Bold.woff") format("woff"),
+    url("./fonts/stafilo/Bold.ttf") format("truetype"),
+    url("./fonts/stafilo/Bold.svg#Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "aero-medium";
+  src: url("./fonts/stafilo/Medium.eot");
+  src: url("./fonts/stafilo/Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/stafilo/Medium.woff2") format("woff2"),
+    url("./fonts/stafilo/Medium.woff") format("woff"),
+    url("./fonts/stafilo/Medium.ttf") format("truetype"),
+    url("./fonts/stafilo/Medium.svg#Medium") format("svg");
+
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "aero-regular";
+  src: url("./fonts/stafilo/Regular.eot");
+  src: url("./fonts/stafilo/Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/stafilo/Regular.woff2") format("woff2"),
+    url("./fonts/stafilo/Regular.woff") format("woff"),
+    url("./fonts/stafilo/Regular.ttf") format("truetype"),
+    url("./fonts/stafilo/Regular.svg#Regular") format("svg");
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font {
+  font-family: "aero-regular" !important;
+  text-transform: uppercase !important;
+  font-feature-settings: "case" on !important;
+}
+
+.font-normal {
+  font-family: "aero-regular" !important;
+}
+
+
+
+
